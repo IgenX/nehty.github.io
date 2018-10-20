@@ -1,0 +1,105 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#kw {
+	position: relative;
+	padding-right: 20px;
+	font-size: 30px;
+	bottom: -45px;
+	left: 15px;
+}
+#part {
+	position: relative;
+	padding-right: 20px;
+	font-size: 30px;
+	bottom: -45px;
+	left: 15px;
+}
+#uch {
+	position: relative;
+	padding-right: 20px;
+	font-size: 30px;
+	bottom: -45px;
+	left: 15px;
+}
+#vk {
+	position: relative;
+	padding-right: 20px;
+	font-size: 30px;
+	bottom: -45px;
+	left: 15px;
+}
+#sil {
+	padding-left: 200px;
+}
+header {
+	background: #191970;
+	top: 0px;
+	bottom: 0px;
+}
+a {
+	color: #fff;
+}
+#logoImg {
+	position: relative;
+	margin: right;
+	margin-left:85%;
+	width: 170px;
+	height: 100px;
+	bottom: 20px;
+}
+body {
+	background: #0095ff;
+	font-family: "arial";
+}
+#text {
+	text-align: center;
+}
+#h4 {
+	position: relative;
+	right: -800px;
+	color: #aaa;
+	top: 10px;
+	animation: text 8s infinite;
+}
+#nehty {
+	position: relative;
+	right: -450px;
+	top: 60px;
+}
+#footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px;
+    background: #4682B4;
+    color: #fff; 
+    width: 100%; 
+    text-align: center;
+}
+@keyframes text {
+	0% {
+		color: #ff0303;
+	}
+	14% {
+		color: #ff8103;
+	}
+	28% {
+		color: #fff203;
+	}
+	42% {
+		color: #03ff0b;
+	}
+	56% {
+		color: #03e6ff;
+	}
+	70% {
+		color: #1c03ff;
+	}
+	84% {
+		color: #9203ff;
+	}
+	100% {
+		color: #ff0303;
+	}
+}
